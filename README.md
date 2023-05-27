@@ -8,3 +8,6 @@ Assessing Revenue and Tax Structure: The project will examine the revenue stream
 Evaluating Budgetary Position: The project will analyze the states' budgetary positions, including revenue generation, expenditure patterns, and any budget deficits or surpluses. It will assess the states' ability to manage their finances effectively and maintain fiscal discipline.
 
 Analyzing Debt Levels: The project will assess the states' debt levels, including outstanding bonds, loans, and other liabilities. It will determine the states' debt burden as a percentage of GDP or annual revenue to gauge the sustainability of their debt.
+# Tech stack used : 
+#### SQL Server (For Data Analysis) 
+#### Microsoft Excel & PowerPoint (For Visualizing and Presenting Insight).
