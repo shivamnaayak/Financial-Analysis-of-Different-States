@@ -1,7 +1,7 @@
 # Financial-Analysis-of-Different-States
 The project "Financial Analysis of Different States" aims to conduct a comprehensive evaluation and comparison of the financial health and stability of multiple states. By analyzing various financial indicators and factors, the project seeks to provide insights into the fiscal positions, revenue structures, budgetary management, and overall financial stability of the states under review.
 
-# The primary objectives of the project are as follows:
+## The primary objectives of the project are as follows:
 
 Assessing Revenue and Tax Structure: The project will examine the revenue streams and tax structures of each state, analyzing the diversification of revenue sources and identifying any significant reliance on specific industries or tax bases.
 
